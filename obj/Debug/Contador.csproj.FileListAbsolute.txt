@@ -1,0 +1,10 @@
+C:\Users\Matheus\source\repos\Contador\Contador\bin\Debug\Contador.exe.config
+C:\Users\Matheus\source\repos\Contador\Contador\bin\Debug\Contador.exe
+C:\Users\Matheus\source\repos\Contador\Contador\bin\Debug\Contador.pdb
+C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.Form1.resources
+C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.Properties.Resources.resources
+C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.csproj.GenerateResource.cache
+C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.exe
+C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.pdb
