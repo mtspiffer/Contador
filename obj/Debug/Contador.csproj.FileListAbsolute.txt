@@ -8,3 +8,4 @@ C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.csproj.Genera
 C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.csproj.CoreCompileInputs.cache
 C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.exe
 C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.pdb
+C:\Users\Matheus\source\repos\Contador\Contador\obj\Debug\Contador.exe.config

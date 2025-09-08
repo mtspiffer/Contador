@@ -31,6 +31,7 @@
             this.btnAumentar = new System.Windows.Forms.Button();
             this.btnDiminuir = new System.Windows.Forms.Button();
             this.lblContador = new System.Windows.Forms.Label();
+            this.btnZerar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btnAumentar
@@ -62,11 +63,22 @@
             this.lblContador.TabIndex = 2;
             this.lblContador.Text = "0";
             // 
+            // btnZerar
+            // 
+            this.btnZerar.Location = new System.Drawing.Point(345, 318);
+            this.btnZerar.Name = "btnZerar";
+            this.btnZerar.Size = new System.Drawing.Size(75, 23);
+            this.btnZerar.TabIndex = 3;
+            this.btnZerar.Text = "Zerar";
+            this.btnZerar.UseVisualStyleBackColor = true;
+            this.btnZerar.Click += new System.EventHandler(this.btnZerar_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnZerar);
             this.Controls.Add(this.lblContador);
             this.Controls.Add(this.btnDiminuir);
             this.Controls.Add(this.btnAumentar);
@@ -83,6 +95,7 @@
         private System.Windows.Forms.Button btnAumentar;
         private System.Windows.Forms.Button btnDiminuir;
         private System.Windows.Forms.Label lblContador;
+        private System.Windows.Forms.Button btnZerar;
     }
 }
 

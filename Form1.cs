@@ -32,7 +32,16 @@ namespace Contador
 
         private void btnDiminuir_Click(object sender, EventArgs e)
         {
+            if (contador <= 0) return;
             contador--;
+            //if (contador <= 0) contador = 0;
+            lblContador.Text = contador.ToString();
+               
+        }
+
+        private void btnZerar_Click(object sender, EventArgs e)
+        {
+            contador = 0;
             lblContador.Text = contador.ToString();
         }
     }
